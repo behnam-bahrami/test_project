@@ -1,0 +1,4 @@
+#Fri Mar 19 14:25:54 IRST 2021
+base.0=/Users/behnam/projects/test_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
